@@ -1,0 +1,1 @@
+http://challenges.ettic.net:10032/challenge?path=.....//.....//.....//.....//flag.txt
